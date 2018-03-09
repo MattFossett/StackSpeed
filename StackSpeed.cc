@@ -18,4 +18,5 @@ int
 main()
 {
     cout << "Hello";
+    cout << "test";
 }
